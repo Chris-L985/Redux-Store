@@ -15,6 +15,10 @@
   * [Questions](#questions)
   ## Usage
   Click on the deployed link below
+  https://secure-gorge-18242.herokuapp.com/
+  
+  Video of application use: 
+  https://watch.screencastify.com/v/7V3mLw5LqzvDNZJaF9zo
   ## Languages
   HTML,CSS,JavaScript,ES6,Node
   ## Contributions
